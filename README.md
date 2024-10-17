@@ -1,7 +1,10 @@
-## Hi there 👋
+## Why hello there
+(｡•̀ᴗ-)✧
 
 <!--
 **jltlm/jltlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+☆～（ゝ。∂）
 
 Here are some ideas to get you started:
 
